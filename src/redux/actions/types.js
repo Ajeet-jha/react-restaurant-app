@@ -1,0 +1,1 @@
+export const GEt_INITIAL_DATA = 'GEt_INITIAL_DATA';
