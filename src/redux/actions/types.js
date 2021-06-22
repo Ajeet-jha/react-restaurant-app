@@ -1,1 +1,1 @@
-export const GEt_INITIAL_DATA = 'GEt_INITIAL_DATA';
+export const GET_ALL_CATEGORIES = 'GET_ALL_CATEGORIES';
